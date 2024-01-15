@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+body{
+    font-family: 'Salsa', cursive;
+}
+table th{
+    color: skyblue;
+}
+ol , ul{
+    color: darkviolet;
+}
+tr , td{
+    color: #DCB646;
+}
